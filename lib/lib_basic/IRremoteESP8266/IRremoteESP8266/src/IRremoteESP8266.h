@@ -119,222 +119,222 @@
 #define SEND_RAW               _IR_ENABLE_DEFAULT_
 #endif  // SEND_RAW
 
-#ifndef DECODE_NEC
-#define DECODE_NEC             _IR_ENABLE_DEFAULT_
-#endif  // DECODE_NEC
-#ifndef SEND_NEC
-#define SEND_NEC               _IR_ENABLE_DEFAULT_
-#endif  // SEND_NEC
+// #ifndef DECODE_NEC
+// #define DECODE_NEC             _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_NEC
+// #ifndef SEND_NEC
+// #define SEND_NEC               _IR_ENABLE_DEFAULT_
+// #endif  // SEND_NEC
 
-#ifndef DECODE_SHERWOOD
-#define DECODE_SHERWOOD        false  // Not applicable. Actually is DECODE_NEC
-#endif  // DECODE_SHERWOOD
-#ifndef SEND_SHERWOOD
-#define SEND_SHERWOOD          _IR_ENABLE_DEFAULT_
-#endif  // SEND_SHERWOOD
+// #ifndef DECODE_SHERWOOD
+// #define DECODE_SHERWOOD        false  // Not applicable. Actually is DECODE_NEC
+// #endif  // DECODE_SHERWOOD
+// #ifndef SEND_SHERWOOD
+// #define SEND_SHERWOOD          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SHERWOOD
 
-#ifndef DECODE_RC5
-#define DECODE_RC5             _IR_ENABLE_DEFAULT_
-#endif  // DECODE_RC5
-#ifndef SEND_RC5
-#define SEND_RC5               _IR_ENABLE_DEFAULT_
-#endif  // SEND_RC5
+// #ifndef DECODE_RC5
+// #define DECODE_RC5             _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_RC5
+// #ifndef SEND_RC5
+// #define SEND_RC5               _IR_ENABLE_DEFAULT_
+// #endif  // SEND_RC5
 
-#ifndef DECODE_RC6
-#define DECODE_RC6             _IR_ENABLE_DEFAULT_
-#endif  // DECODE_RC6
-#ifndef SEND_RC6
-#define SEND_RC6               _IR_ENABLE_DEFAULT_
-#endif  // SEND_RC6
+// #ifndef DECODE_RC6
+// #define DECODE_RC6             _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_RC6
+// #ifndef SEND_RC6
+// #define SEND_RC6               _IR_ENABLE_DEFAULT_
+// #endif  // SEND_RC6
 
-#ifndef DECODE_RCMM
-#define DECODE_RCMM            _IR_ENABLE_DEFAULT_
-#endif  // DECODE_RCMM
-#ifndef SEND_RCMM
-#define SEND_RCMM              _IR_ENABLE_DEFAULT_
-#endif  // SEND_RCMM
+// #ifndef DECODE_RCMM
+// #define DECODE_RCMM            _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_RCMM
+// #ifndef SEND_RCMM
+// #define SEND_RCMM              _IR_ENABLE_DEFAULT_
+// #endif  // SEND_RCMM
 
-#ifndef DECODE_SONY
-#define DECODE_SONY            _IR_ENABLE_DEFAULT_
-#endif  // DECODE_SONY
-#ifndef SEND_SONY
-#define SEND_SONY              _IR_ENABLE_DEFAULT_
-#endif  // SEND_SONY
+// #ifndef DECODE_SONY
+// #define DECODE_SONY            _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_SONY
+// #ifndef SEND_SONY
+// #define SEND_SONY              _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SONY
 
-#ifndef DECODE_PANASONIC
-#define DECODE_PANASONIC       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_PANASONIC
-#ifndef SEND_PANASONIC
-#define SEND_PANASONIC         _IR_ENABLE_DEFAULT_
-#endif  // SEND_PANASONIC
+// #ifndef DECODE_PANASONIC
+// #define DECODE_PANASONIC       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_PANASONIC
+// #ifndef SEND_PANASONIC
+// #define SEND_PANASONIC         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_PANASONIC
 
-#ifndef DECODE_JVC
-#define DECODE_JVC             _IR_ENABLE_DEFAULT_
-#endif  // DECODE_JVC
-#ifndef SEND_JVC
-#define SEND_JVC               _IR_ENABLE_DEFAULT_
-#endif  // SEND_JVC
+// #ifndef DECODE_JVC
+// #define DECODE_JVC             _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_JVC
+// #ifndef SEND_JVC
+// #define SEND_JVC               _IR_ENABLE_DEFAULT_
+// #endif  // SEND_JVC
 
-#ifndef DECODE_SAMSUNG
-#define DECODE_SAMSUNG         _IR_ENABLE_DEFAULT_
-#endif  // DECODE_SAMSUNG
-#ifndef SEND_SAMSUNG
-#define SEND_SAMSUNG           _IR_ENABLE_DEFAULT_
-#endif  // SEND_SAMSUNG
+// #ifndef DECODE_SAMSUNG
+// #define DECODE_SAMSUNG         _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_SAMSUNG
+// #ifndef SEND_SAMSUNG
+// #define SEND_SAMSUNG           _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SAMSUNG
 
-#ifndef DECODE_SAMSUNG36
-#define DECODE_SAMSUNG36       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_SAMSUNG36
-#ifndef SEND_SAMSUNG36
-#define SEND_SAMSUNG36         _IR_ENABLE_DEFAULT_
-#endif  // SEND_SAMSUNG36
+// #ifndef DECODE_SAMSUNG36
+// #define DECODE_SAMSUNG36       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_SAMSUNG36
+// #ifndef SEND_SAMSUNG36
+// #define SEND_SAMSUNG36         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SAMSUNG36
 
-#ifndef DECODE_SAMSUNG_AC
-#define DECODE_SAMSUNG_AC      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_SAMSUNG_AC
-#ifndef SEND_SAMSUNG_AC
-#define SEND_SAMSUNG_AC        _IR_ENABLE_DEFAULT_
-#endif  // SEND_SAMSUNG_AC
+// #ifndef DECODE_SAMSUNG_AC
+// #define DECODE_SAMSUNG_AC      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_SAMSUNG_AC
+// #ifndef SEND_SAMSUNG_AC
+// #define SEND_SAMSUNG_AC        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SAMSUNG_AC
 
-#ifndef DECODE_WHYNTER
-#define DECODE_WHYNTER         _IR_ENABLE_DEFAULT_
-#endif  // DECODE_WHYNTER
-#ifndef SEND_WHYNTER
-#define SEND_WHYNTER           _IR_ENABLE_DEFAULT_
-#endif  // SEND_WHYNTER
+// #ifndef DECODE_WHYNTER
+// #define DECODE_WHYNTER         _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_WHYNTER
+// #ifndef SEND_WHYNTER
+// #define SEND_WHYNTER           _IR_ENABLE_DEFAULT_
+// #endif  // SEND_WHYNTER
 
-#ifndef DECODE_AIWA_RC_T501
-#define DECODE_AIWA_RC_T501    _IR_ENABLE_DEFAULT_
-#endif  // DECODE_AIWA_RC_T501
-#ifndef SEND_AIWA_RC_T501
-#define SEND_AIWA_RC_T501      _IR_ENABLE_DEFAULT_
-#endif  // SEND_AIWA_RC_T501
+// #ifndef DECODE_AIWA_RC_T501
+// #define DECODE_AIWA_RC_T501    _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_AIWA_RC_T501
+// #ifndef SEND_AIWA_RC_T501
+// #define SEND_AIWA_RC_T501      _IR_ENABLE_DEFAULT_
+// #endif  // SEND_AIWA_RC_T501
 
-#ifndef DECODE_LG
-#define DECODE_LG              _IR_ENABLE_DEFAULT_
-#endif  // DECODE_LG
-#ifndef SEND_LG
-#define SEND_LG                _IR_ENABLE_DEFAULT_
-#endif  // SEND_LG
+// #ifndef DECODE_LG
+// #define DECODE_LG              _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_LG
+// #ifndef SEND_LG
+// #define SEND_LG                _IR_ENABLE_DEFAULT_
+// #endif  // SEND_LG
 
-#ifndef DECODE_SANYO
-#define DECODE_SANYO           _IR_ENABLE_DEFAULT_
-#endif  // DECODE_SANYO
-#ifndef SEND_SANYO
-#define SEND_SANYO             _IR_ENABLE_DEFAULT_
-#endif  // SEND_SANYO
+// #ifndef DECODE_SANYO
+// #define DECODE_SANYO           _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_SANYO
+// #ifndef SEND_SANYO
+// #define SEND_SANYO             _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SANYO
 
-#ifndef DECODE_SANYO_AC
-#define DECODE_SANYO_AC        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_SANYO_AC
-#ifndef SEND_SANYO_AC
-#define SEND_SANYO_AC          _IR_ENABLE_DEFAULT_
-#endif  // SEND_SANYO_AC
+// #ifndef DECODE_SANYO_AC
+// #define DECODE_SANYO_AC        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_SANYO_AC
+// #ifndef SEND_SANYO_AC
+// #define SEND_SANYO_AC          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SANYO_AC
 
-#ifndef DECODE_SANYO_AC88
-#define DECODE_SANYO_AC88      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_SANYO_AC88
-#ifndef SEND_SANYO_AC88
-#define SEND_SANYO_AC88        _IR_ENABLE_DEFAULT_
-#endif  // SEND_SANYO_AC88
+// #ifndef DECODE_SANYO_AC88
+// #define DECODE_SANYO_AC88      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_SANYO_AC88
+// #ifndef SEND_SANYO_AC88
+// #define SEND_SANYO_AC88        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SANYO_AC88
 
-#ifndef DECODE_SANYO_AC152
-#define DECODE_SANYO_AC152     _IR_ENABLE_DEFAULT_
-#endif  // DECODE_SANYO_AC152
-#ifndef SEND_SANYO_AC152
-#define SEND_SANYO_AC152       _IR_ENABLE_DEFAULT_
-#endif  // SEND_SANYO_AC152
+// #ifndef DECODE_SANYO_AC152
+// #define DECODE_SANYO_AC152     _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_SANYO_AC152
+// #ifndef SEND_SANYO_AC152
+// #define SEND_SANYO_AC152       _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SANYO_AC152
 
-#ifndef DECODE_MITSUBISHI
-#define DECODE_MITSUBISHI      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MITSUBISHI
-#ifndef SEND_MITSUBISHI
-#define SEND_MITSUBISHI        _IR_ENABLE_DEFAULT_
-#endif  // SEND_MITSUBISHI
+// #ifndef DECODE_MITSUBISHI
+// #define DECODE_MITSUBISHI      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MITSUBISHI
+// #ifndef SEND_MITSUBISHI
+// #define SEND_MITSUBISHI        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MITSUBISHI
 
-#ifndef DECODE_MITSUBISHI2
-#define DECODE_MITSUBISHI2     _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MITSUBISHI2
-#ifndef SEND_MITSUBISHI2
-#define SEND_MITSUBISHI2       _IR_ENABLE_DEFAULT_
-#endif  // SEND_MITSUBISHI2
+// #ifndef DECODE_MITSUBISHI2
+// #define DECODE_MITSUBISHI2     _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MITSUBISHI2
+// #ifndef SEND_MITSUBISHI2
+// #define SEND_MITSUBISHI2       _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MITSUBISHI2
 
-#ifndef DECODE_DISH
-#define DECODE_DISH            _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DISH
-#ifndef SEND_DISH
-#define SEND_DISH              _IR_ENABLE_DEFAULT_
-#endif  // SEND_DISH
+// #ifndef DECODE_DISH
+// #define DECODE_DISH            _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DISH
+// #ifndef SEND_DISH
+// #define SEND_DISH              _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DISH
 
-#ifndef DECODE_SHARP
-#define DECODE_SHARP           _IR_ENABLE_DEFAULT_
-#endif  // DECODE_SHARP
-#ifndef SEND_SHARP
-#define SEND_SHARP             _IR_ENABLE_DEFAULT_
-#endif  // SEND_SHARP
+// #ifndef DECODE_SHARP
+// #define DECODE_SHARP           _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_SHARP
+// #ifndef SEND_SHARP
+// #define SEND_SHARP             _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SHARP
 
-#ifndef DECODE_SHARP_AC
-#define DECODE_SHARP_AC        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_SHARP_AC
-#ifndef SEND_SHARP_AC
-#define SEND_SHARP_AC          _IR_ENABLE_DEFAULT_
-#endif  // SEND_SHARP_AC
+// #ifndef DECODE_SHARP_AC
+// #define DECODE_SHARP_AC        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_SHARP_AC
+// #ifndef SEND_SHARP_AC
+// #define SEND_SHARP_AC          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SHARP_AC
 
-#ifndef DECODE_DENON
-#define DECODE_DENON           _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DENON
-#ifndef SEND_DENON
-#define SEND_DENON             _IR_ENABLE_DEFAULT_
-#endif  // SEND_DENON
+// #ifndef DECODE_DENON
+// #define DECODE_DENON           _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DENON
+// #ifndef SEND_DENON
+// #define SEND_DENON             _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DENON
 
-#ifndef DECODE_KELVINATOR
-#define DECODE_KELVINATOR      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_KELVINATOR
-#ifndef SEND_KELVINATOR
-#define SEND_KELVINATOR        _IR_ENABLE_DEFAULT_
-#endif  // SEND_KELVINATOR
+// #ifndef DECODE_KELVINATOR
+// #define DECODE_KELVINATOR      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_KELVINATOR
+// #ifndef SEND_KELVINATOR
+// #define SEND_KELVINATOR        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_KELVINATOR
 
-#ifndef DECODE_MITSUBISHI_AC
-#define DECODE_MITSUBISHI_AC   _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MITSUBISHI_AC
-#ifndef SEND_MITSUBISHI_AC
-#define SEND_MITSUBISHI_AC     _IR_ENABLE_DEFAULT_
-#endif  // SEND_MITSUBISHI_AC
+// #ifndef DECODE_MITSUBISHI_AC
+// #define DECODE_MITSUBISHI_AC   _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MITSUBISHI_AC
+// #ifndef SEND_MITSUBISHI_AC
+// #define SEND_MITSUBISHI_AC     _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MITSUBISHI_AC
 
-#ifndef DECODE_MITSUBISHI136
-#define DECODE_MITSUBISHI136   _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MITSUBISHI136
-#ifndef SEND_MITSUBISHI136
-#define SEND_MITSUBISHI136     _IR_ENABLE_DEFAULT_
-#endif  // SEND_MITSUBISHI136
+// #ifndef DECODE_MITSUBISHI136
+// #define DECODE_MITSUBISHI136   _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MITSUBISHI136
+// #ifndef SEND_MITSUBISHI136
+// #define SEND_MITSUBISHI136     _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MITSUBISHI136
 
-#ifndef DECODE_MITSUBISHI112
-#define DECODE_MITSUBISHI112   _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MITSUBISHI112
-#ifndef SEND_MITSUBISHI112
-#define SEND_MITSUBISHI112     _IR_ENABLE_DEFAULT_
-#endif  // SEND_MITSUBISHI112
+// #ifndef DECODE_MITSUBISHI112
+// #define DECODE_MITSUBISHI112   _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MITSUBISHI112
+// #ifndef SEND_MITSUBISHI112
+// #define SEND_MITSUBISHI112     _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MITSUBISHI112
 
-#ifndef DECODE_FUJITSU_AC
-#define DECODE_FUJITSU_AC      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_FUJITSU_AC
-#ifndef SEND_FUJITSU_AC
-#define SEND_FUJITSU_AC        _IR_ENABLE_DEFAULT_
-#endif  // SEND_FUJITSU_AC
+// #ifndef DECODE_FUJITSU_AC
+// #define DECODE_FUJITSU_AC      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_FUJITSU_AC
+// #ifndef SEND_FUJITSU_AC
+// #define SEND_FUJITSU_AC        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_FUJITSU_AC
 
-#ifndef DECODE_INAX
-#define DECODE_INAX            _IR_ENABLE_DEFAULT_
-#endif  // DECODE_INAX
-#ifndef SEND_INAX
-#define SEND_INAX              _IR_ENABLE_DEFAULT_
-#endif  // SEND_INAX
+// #ifndef DECODE_INAX
+// #define DECODE_INAX            _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_INAX
+// #ifndef SEND_INAX
+// #define SEND_INAX              _IR_ENABLE_DEFAULT_
+// #endif  // SEND_INAX
 
-#ifndef DECODE_DAIKIN
-#define DECODE_DAIKIN          _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DAIKIN
-#ifndef SEND_DAIKIN
-#define SEND_DAIKIN            _IR_ENABLE_DEFAULT_
-#endif  // SEND_DAIKIN
+// #ifndef DECODE_DAIKIN
+// #define DECODE_DAIKIN          _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DAIKIN
+// #ifndef SEND_DAIKIN
+// #define SEND_DAIKIN            _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DAIKIN
 
 #ifndef DECODE_COOLIX
 #define DECODE_COOLIX          _IR_ENABLE_DEFAULT_
@@ -343,12 +343,12 @@
 #define SEND_COOLIX            _IR_ENABLE_DEFAULT_
 #endif  // SEND_COOLIX
 
-#ifndef DECODE_COOLIX48
-#define DECODE_COOLIX48        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_COOLIX48
-#ifndef SEND_COOLIX48
-#define SEND_COOLIX48          _IR_ENABLE_DEFAULT_
-#endif  // SEND_COOLIX48
+// #ifndef DECODE_COOLIX48
+// #define DECODE_COOLIX48        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_COOLIX48
+// #ifndef SEND_COOLIX48
+// #define SEND_COOLIX48          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_COOLIX48
 
 #ifndef DECODE_GLOBALCACHE
 #define DECODE_GLOBALCACHE     false  // Not applicable.
@@ -357,600 +357,600 @@
 #define SEND_GLOBALCACHE       _IR_ENABLE_DEFAULT_
 #endif  // SEND_GLOBALCACHE
 
-#ifndef DECODE_GOODWEATHER
-#define DECODE_GOODWEATHER     _IR_ENABLE_DEFAULT_
-#endif  // DECODE_GOODWEATHER
-#ifndef SEND_GOODWEATHER
-#define SEND_GOODWEATHER       _IR_ENABLE_DEFAULT_
-#endif  // SEND_GOODWEATHER
-
-#ifndef DECODE_GREE
-#define DECODE_GREE            _IR_ENABLE_DEFAULT_
-#endif  // DECODE_GREE
-#ifndef SEND_GREE
-#define SEND_GREE              _IR_ENABLE_DEFAULT_
-#endif  // SEND_GREE
-
-#ifndef DECODE_PRONTO
-#define DECODE_PRONTO          false  // Not applicable.
-#endif  // DECODE_PRONTO
-#ifndef SEND_PRONTO
-#define SEND_PRONTO            _IR_ENABLE_DEFAULT_
-#endif  // SEND_PRONTO
-
-#ifndef DECODE_ARGO
-#define DECODE_ARGO            _IR_ENABLE_DEFAULT_
-#endif  // DECODE_ARGO
-#ifndef SEND_ARGO
-#define SEND_ARGO              _IR_ENABLE_DEFAULT_
-#endif  // SEND_ARGO
-
-#ifndef DECODE_TROTEC
-#define DECODE_TROTEC          _IR_ENABLE_DEFAULT_
-#endif  // DECODE_TROTEC
-#ifndef SEND_TROTEC
-#define SEND_TROTEC            _IR_ENABLE_DEFAULT_
-#endif  // SEND_TROTEC
-
-#ifndef DECODE_TROTEC_3550
-#define DECODE_TROTEC_3550     _IR_ENABLE_DEFAULT_
-#endif  // DECODE_TROTEC_3550
-#ifndef SEND_TROTEC_3550
-#define SEND_TROTEC_3550       _IR_ENABLE_DEFAULT_
-#endif  // SEND_TROTEC_3550
-
-#ifndef DECODE_NIKAI
-#define DECODE_NIKAI           _IR_ENABLE_DEFAULT_
-#endif  // DECODE_NIKAI
-#ifndef SEND_NIKAI
-#define SEND_NIKAI             _IR_ENABLE_DEFAULT_
-#endif  // SEND_NIKAI
-
-#ifndef DECODE_TOSHIBA_AC
-#define DECODE_TOSHIBA_AC      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_TOSHIBA_AC
-#ifndef SEND_TOSHIBA_AC
-#define SEND_TOSHIBA_AC        _IR_ENABLE_DEFAULT_
-#endif  // SEND_TOSHIBA_AC
-
-#ifndef DECODE_MAGIQUEST
-#define DECODE_MAGIQUEST       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MAGIQUEST
-#ifndef SEND_MAGIQUEST
-#define SEND_MAGIQUEST         _IR_ENABLE_DEFAULT_
-#endif  // SEND_MAGIQUEST
-
-#ifndef DECODE_MIDEA
-#define DECODE_MIDEA           _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MIDEA
-#ifndef SEND_MIDEA
-#define SEND_MIDEA             _IR_ENABLE_DEFAULT_
-#endif  // SEND_MIDEA
-
-#ifndef DECODE_MIDEA24
-#define DECODE_MIDEA24         _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MIDEA24
-#ifndef SEND_MIDEA24
-#define SEND_MIDEA24           _IR_ENABLE_DEFAULT_
-#endif  // SEND_MIDEA24
-
-#ifndef DECODE_LASERTAG
-#define DECODE_LASERTAG        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_LASERTAG
-#ifndef SEND_LASERTAG
-#define SEND_LASERTAG          _IR_ENABLE_DEFAULT_
-#endif  // SEND_LASERTAG
-
-#ifndef DECODE_CARRIER_AC
-#define DECODE_CARRIER_AC      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_CARRIER_AC
-#ifndef SEND_CARRIER_AC
-#define SEND_CARRIER_AC        _IR_ENABLE_DEFAULT_
-#endif  // SEND_CARRIER_AC
-
-#ifndef DECODE_CARRIER_AC40
-#define DECODE_CARRIER_AC40    _IR_ENABLE_DEFAULT_
-#endif  // DECODE_CARRIER_AC40
-#ifndef SEND_CARRIER_AC40
-#define SEND_CARRIER_AC40      _IR_ENABLE_DEFAULT_
-#endif  // SEND_CARRIER_AC40
-
-#ifndef DECODE_CARRIER_AC64
-#define DECODE_CARRIER_AC64    _IR_ENABLE_DEFAULT_
-#endif  // DECODE_CARRIER_AC64
-#ifndef SEND_CARRIER_AC64
-#define SEND_CARRIER_AC64      _IR_ENABLE_DEFAULT_
-#endif  // SEND_CARRIER_AC64
-
-#ifndef DECODE_CARRIER_AC128
-#define DECODE_CARRIER_AC128   _IR_ENABLE_DEFAULT_
-#endif  // DECODE_CARRIER_AC128
-#ifndef SEND_CARRIER_AC128
-#define SEND_CARRIER_AC128     _IR_ENABLE_DEFAULT_
-#endif  // SEND_CARRIER_AC128
-
-#ifndef DECODE_HAIER_AC
-#define DECODE_HAIER_AC        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HAIER_AC
-#ifndef SEND_HAIER_AC
-#define SEND_HAIER_AC          _IR_ENABLE_DEFAULT_
-#endif  // SEND_HAIER_AC
-
-#ifndef DECODE_HITACHI_AC
-#define DECODE_HITACHI_AC      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HITACHI_AC
-#ifndef SEND_HITACHI_AC
-#define SEND_HITACHI_AC        _IR_ENABLE_DEFAULT_
-#endif  // SEND_HITACHI_AC
-
-#ifndef DECODE_HITACHI_AC1
-#define DECODE_HITACHI_AC1     _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HITACHI_AC1
-#ifndef SEND_HITACHI_AC1
-#define SEND_HITACHI_AC1       _IR_ENABLE_DEFAULT_
-#endif  // SEND_HITACHI_AC1
-
-#ifndef DECODE_HITACHI_AC2
-#define DECODE_HITACHI_AC2     _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HITACHI_AC2
-#ifndef SEND_HITACHI_AC2
-#define SEND_HITACHI_AC2       _IR_ENABLE_DEFAULT_
-#endif  // SEND_HITACHI_AC2
-
-#ifndef DECODE_HITACHI_AC3
-#define DECODE_HITACHI_AC3     _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HITACHI_AC3
-#ifndef SEND_HITACHI_AC3
-#define SEND_HITACHI_AC3       _IR_ENABLE_DEFAULT_
-#endif  // SEND_HITACHI_AC3
-
-#ifndef DECODE_HITACHI_AC264
-#define DECODE_HITACHI_AC264   _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HITACHI_AC264
-#ifndef SEND_HITACHI_AC264
-#define SEND_HITACHI_AC264     _IR_ENABLE_DEFAULT_
-#endif  // SEND_HITACHI_AC264
-
-#ifndef DECODE_HITACHI_AC296
-#define DECODE_HITACHI_AC296   _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HITACHI_AC296
-#ifndef SEND_HITACHI_AC296
-#define SEND_HITACHI_AC296     _IR_ENABLE_DEFAULT_
-#endif  // SEND_HITACHI_AC296
-
-#ifndef DECODE_HITACHI_AC344
-#define DECODE_HITACHI_AC344   _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HITACHI_AC344
-#ifndef SEND_HITACHI_AC344
-#define SEND_HITACHI_AC344     _IR_ENABLE_DEFAULT_
-#endif  // SEND_HITACHI_AC344
-
-#ifndef DECODE_HITACHI_AC424
-#define DECODE_HITACHI_AC424   _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HITACHI_AC424
-#ifndef SEND_HITACHI_AC424
-#define SEND_HITACHI_AC424     _IR_ENABLE_DEFAULT_
-#endif  // SEND_HITACHI_AC424
-
-#ifndef DECODE_GICABLE
-#define DECODE_GICABLE         _IR_ENABLE_DEFAULT_
-#endif  // DECODE_GICABLE
-#ifndef SEND_GICABLE
-#define SEND_GICABLE           _IR_ENABLE_DEFAULT_
-#endif  // SEND_GICABLE
-
-#ifndef DECODE_HAIER_AC_YRW02
-#define DECODE_HAIER_AC_YRW02  _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HAIER_AC_YRW02
-#ifndef SEND_HAIER_AC_YRW02
-#define SEND_HAIER_AC_YRW02    _IR_ENABLE_DEFAULT_
-#endif  // SEND_HAIER_AC_YRW02
-
-#ifndef DECODE_WHIRLPOOL_AC
-#define DECODE_WHIRLPOOL_AC    _IR_ENABLE_DEFAULT_
-#endif  // DECODE_WHIRLPOOL_AC
-#ifndef SEND_WHIRLPOOL_AC
-#define SEND_WHIRLPOOL_AC      _IR_ENABLE_DEFAULT_
-#endif  // SEND_WHIRLPOOL_AC
-
-#ifndef DECODE_LUTRON
-#define DECODE_LUTRON          _IR_ENABLE_DEFAULT_
-#endif  // DECODE_LUTRON
-#ifndef SEND_LUTRON
-#define SEND_LUTRON            _IR_ENABLE_DEFAULT_
-#endif  // SEND_LUTRON
-
-#ifndef DECODE_ELECTRA_AC
-#define DECODE_ELECTRA_AC      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_ELECTRA_AC
-#ifndef SEND_ELECTRA_AC
-#define SEND_ELECTRA_AC        _IR_ENABLE_DEFAULT_
-#endif  // SEND_ELECTRA_AC
-
-#ifndef DECODE_PANASONIC_AC
-#define DECODE_PANASONIC_AC    _IR_ENABLE_DEFAULT_
-#endif  // DECODE_PANASONIC_AC
-#ifndef SEND_PANASONIC_AC
-#define SEND_PANASONIC_AC      _IR_ENABLE_DEFAULT_
-#endif  // SEND_PANASONIC_AC
-
-#ifndef DECODE_PANASONIC_AC32
-#define DECODE_PANASONIC_AC32  _IR_ENABLE_DEFAULT_
-#endif  // DECODE_PANASONIC_AC32
-#ifndef SEND_PANASONIC_AC32
-#define SEND_PANASONIC_AC32    _IR_ENABLE_DEFAULT_
-#endif  // SEND_PANASONIC_AC32
-
-#ifndef DECODE_MWM
-#define DECODE_MWM             _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MWM
-#ifndef SEND_MWM
-#define SEND_MWM               _IR_ENABLE_DEFAULT_
-#endif  // SEND_MWM
-
-#ifndef DECODE_PIONEER
-#define DECODE_PIONEER         _IR_ENABLE_DEFAULT_
-#endif  // DECODE_PIONEER
-#ifndef SEND_PIONEER
-#define SEND_PIONEER           _IR_ENABLE_DEFAULT_
-#endif  // SEND_PIONEER
-
-#ifndef DECODE_DAIKIN2
-#define DECODE_DAIKIN2         _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DAIKIN2
-#ifndef SEND_DAIKIN2
-#define SEND_DAIKIN2           _IR_ENABLE_DEFAULT_
-#endif  // SEND_DAIKIN2
-
-#ifndef DECODE_VESTEL_AC
-#define DECODE_VESTEL_AC       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_VESTEL_AC
-#ifndef SEND_VESTEL_AC
-#define SEND_VESTEL_AC         _IR_ENABLE_DEFAULT_
-#endif  // SEND_VESTEL_AC
-
-#ifndef DECODE_TECO
-#define DECODE_TECO            _IR_ENABLE_DEFAULT_
-#endif  // DECODE_TECO
-#ifndef SEND_TECO
-#define SEND_TECO              _IR_ENABLE_DEFAULT_
-#endif  // SEND_TECO
-
-#ifndef DECODE_TCL96AC
-#define DECODE_TCL96AC        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_TCL96AC
-#ifndef SEND_TCL96AC
-#define SEND_TCL96AC          _IR_ENABLE_DEFAULT_
-#endif  // SEND_TCL96AC
-
-#ifndef DECODE_TCL112AC
-#define DECODE_TCL112AC        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_TCL112AC
-#ifndef SEND_TCL112AC
-#define SEND_TCL112AC          _IR_ENABLE_DEFAULT_
-#endif  // SEND_TCL112AC
-
-#ifndef DECODE_LEGOPF
-#define DECODE_LEGOPF          _IR_ENABLE_DEFAULT_
-#endif  // DECODE_LEGOPF
-#ifndef SEND_LEGOPF
-#define SEND_LEGOPF            _IR_ENABLE_DEFAULT_
-#endif  // SEND_LEGOPF
-
-#ifndef DECODE_MITSUBISHIHEAVY
-#define DECODE_MITSUBISHIHEAVY _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MITSUBISHIHEAVY
-#ifndef SEND_MITSUBISHIHEAVY
-#define SEND_MITSUBISHIHEAVY   _IR_ENABLE_DEFAULT_
-#endif  // SEND_MITSUBISHIHEAVY
-
-#ifndef DECODE_DAIKIN216
-#define DECODE_DAIKIN216       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DAIKIN216
-#ifndef SEND_DAIKIN216
-#define SEND_DAIKIN216         _IR_ENABLE_DEFAULT_
-#endif  // SEND_DAIKIN216
-
-#ifndef DECODE_DAIKIN160
-#define DECODE_DAIKIN160       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DAIKIN160
-#ifndef SEND_DAIKIN160
-#define SEND_DAIKIN160         _IR_ENABLE_DEFAULT_
-#endif  // SEND_DAIKIN160
-
-#ifndef DECODE_NEOCLIMA
-#define DECODE_NEOCLIMA        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_NEOCLIMA
-#ifndef SEND_NEOCLIMA
-#define SEND_NEOCLIMA          _IR_ENABLE_DEFAULT_
-#endif  // SEND_NEOCLIMA
-
-#ifndef DECODE_DAIKIN176
-#define DECODE_DAIKIN176       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DAIKIN176
-#ifndef SEND_DAIKIN176
-#define SEND_DAIKIN176         _IR_ENABLE_DEFAULT_
-#endif  // SEND_DAIKIN176
-
-#ifndef DECODE_DAIKIN128
-#define DECODE_DAIKIN128       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DAIKIN128
-#ifndef SEND_DAIKIN128
-#define SEND_DAIKIN128         _IR_ENABLE_DEFAULT_
-#endif  // SEND_DAIKIN128
-
-#ifndef DECODE_AMCOR
-#define DECODE_AMCOR           _IR_ENABLE_DEFAULT_
-#endif  // DECODE_AMCOR
-#ifndef SEND_AMCOR
-#define SEND_AMCOR             _IR_ENABLE_DEFAULT_
-#endif  // SEND_AMCOR
-
-#ifndef DECODE_DAIKIN152
-#define DECODE_DAIKIN152       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DAIKIN152
-#ifndef SEND_DAIKIN152
-#define SEND_DAIKIN152         _IR_ENABLE_DEFAULT_
-#endif  // SEND_DAIKIN152
-
-#ifndef DECODE_EPSON
-#define DECODE_EPSON           _IR_ENABLE_DEFAULT_
-#endif  // DECODE_EPSON
-#ifndef SEND_EPSON
-#define SEND_EPSON             _IR_ENABLE_DEFAULT_
-#endif  // SEND_EPSON
-
-#ifndef DECODE_SYMPHONY
-#define DECODE_SYMPHONY        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_SYMPHONY
-#ifndef SEND_SYMPHONY
-#define SEND_SYMPHONY          _IR_ENABLE_DEFAULT_
-#endif  // SEND_SYMPHONY
-
-#ifndef DECODE_DAIKIN64
-#define DECODE_DAIKIN64        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DAIKIN64
-#ifndef SEND_DAIKIN64
-#define SEND_DAIKIN64          _IR_ENABLE_DEFAULT_
-#endif  // SEND_DAIKIN64
-
-#ifndef DECODE_AIRWELL
-#define DECODE_AIRWELL         _IR_ENABLE_DEFAULT_
-#endif  // DECODE_AIRWELL
-#ifndef SEND_AIRWELL
-#define SEND_AIRWELL           _IR_ENABLE_DEFAULT_
-#endif  // SEND_AIRWELL
-
-#ifndef DECODE_DELONGHI_AC
-#define DECODE_DELONGHI_AC     _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DELONGHI_AC
-#ifndef SEND_DELONGHI_AC
-#define SEND_DELONGHI_AC       _IR_ENABLE_DEFAULT_
-#endif  // SEND_DELONGHI_AC
-
-#ifndef DECODE_DOSHISHA
-#define DECODE_DOSHISHA        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DOSHISHA
-#ifndef SEND_DOSHISHA
-#define SEND_DOSHISHA          _IR_ENABLE_DEFAULT_
-#endif  // SEND_DOSHISHA
-
-#ifndef DECODE_MULTIBRACKETS
-#define DECODE_MULTIBRACKETS   _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MULTIBRACKETS
-#ifndef SEND_MULTIBRACKETS
-#define SEND_MULTIBRACKETS     _IR_ENABLE_DEFAULT_
-#endif  // SEND_MULTIBRACKETS
-
-#ifndef DECODE_TECHNIBEL_AC
-#define DECODE_TECHNIBEL_AC     _IR_ENABLE_DEFAULT_
-#endif  // DECODE_TECHNIBEL_AC
-#ifndef SEND_TECHNIBEL_AC
-#define SEND_TECHNIBEL_AC       _IR_ENABLE_DEFAULT_
-#endif  // SEND_TECHNIBEL_AC
-
-#ifndef DECODE_CORONA_AC
-#define DECODE_CORONA_AC       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_CORONA_AC
-#ifndef SEND_CORONA_AC
-#define SEND_CORONA_AC         _IR_ENABLE_DEFAULT_
-#endif  // SEND_CORONA_AC
-
-#ifndef DECODE_ZEPEAL
-#define DECODE_ZEPEAL          _IR_ENABLE_DEFAULT_
-#endif  // DECODE_ZEPEAL
-#ifndef SEND_ZEPEAL
-#define SEND_ZEPEAL            _IR_ENABLE_DEFAULT_
-#endif  // SEND_ZEPEAL
-
-#ifndef DECODE_VOLTAS
-#define DECODE_VOLTAS          _IR_ENABLE_DEFAULT_
-#endif  // DECODE_VOLTAS
-#ifndef SEND_VOLTAS
-#define SEND_VOLTAS            _IR_ENABLE_DEFAULT_
-#endif  // SEND_VOLTAS
-
-#ifndef DECODE_METZ
-#define DECODE_METZ            _IR_ENABLE_DEFAULT_
-#endif  // DECODE_METZ
-#ifndef SEND_METZ
-#define SEND_METZ              _IR_ENABLE_DEFAULT_
-#endif  // SEND_METZ
-
-#ifndef DECODE_TRANSCOLD
-#define DECODE_TRANSCOLD       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_TRANSCOLD
-#ifndef SEND_TRANSCOLD
-#define SEND_TRANSCOLD         _IR_ENABLE_DEFAULT_
-#endif  // SEND_TRANSCOLD
-
-#ifndef DECODE_MIRAGE
-#define DECODE_MIRAGE          _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MIRAGE
-#ifndef SEND_MIRAGE
-#define SEND_MIRAGE            _IR_ENABLE_DEFAULT_
-#endif  // SEND_MIRAGE
-
-#ifndef DECODE_ELITESCREENS
-#define DECODE_ELITESCREENS    _IR_ENABLE_DEFAULT_
-#endif  // DECODE_ELITESCREENS
-#ifndef SEND_ELITESCREENS
-#define SEND_ELITESCREENS      _IR_ENABLE_DEFAULT_
-#endif  // SEND_ELITESCREENS
-
-#ifndef DECODE_MILESTAG2
-#define DECODE_MILESTAG2    _IR_ENABLE_DEFAULT_
-#endif  // DECODE_MILESTAG2
-#ifndef SEND_MILESTAG2
-#define SEND_MILESTAG2      _IR_ENABLE_DEFAULT_
-#endif  // SEND_MILESTAG2
-
-#ifndef DECODE_ECOCLIM
-#define DECODE_ECOCLIM      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_ECOCLIM
-#ifndef SEND_ECOCLIM
-#define SEND_ECOCLIM        _IR_ENABLE_DEFAULT_
-#endif  // SEND_ECOCLIM
-
-#ifndef DECODE_XMP
-#define DECODE_XMP          _IR_ENABLE_DEFAULT_
-#endif  // DECODE_XMP
-#ifndef SEND_XMP
-#define SEND_XMP            _IR_ENABLE_DEFAULT_
-#endif  // SEND_XMP
-
-#ifndef DECODE_TRUMA
-#define DECODE_TRUMA        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_TRUMA
-#ifndef SEND_TRUMA
-#define SEND_TRUMA          _IR_ENABLE_DEFAULT_
-#endif  // SEND_TRUMA
-
-#ifndef DECODE_HAIER_AC176
-#define DECODE_HAIER_AC176  _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HAIER_AC176
-#ifndef SEND_HAIER_AC176
-#define SEND_HAIER_AC176    _IR_ENABLE_DEFAULT_
-#endif  // SEND_HAIER_AC176
-
-#ifndef DECODE_TEKNOPOINT
-#define DECODE_TEKNOPOINT  _IR_ENABLE_DEFAULT_
-#endif  // DECODE_TEKNOPOINT
-#ifndef SEND_TEKNOPOINT
-#define SEND_TEKNOPOINT    _IR_ENABLE_DEFAULT_
-#endif  // SEND_TEKNOPOINT
-
-#ifndef DECODE_KELON
-#define DECODE_KELON        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_KELON
-#ifndef SEND_KELON
-#define SEND_KELON          _IR_ENABLE_DEFAULT_
-#endif  // SEND_KELON
-
-#ifndef DECODE_BOSE
-#define DECODE_BOSE         _IR_ENABLE_DEFAULT_
-#endif  // DECODE_BOSE
-#ifndef SEND_BOSE
-#define SEND_BOSE           _IR_ENABLE_DEFAULT_
-#endif  // SEND_BOSE
-
-#ifndef DECODE_ARRIS
-#define DECODE_ARRIS        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_ARRIS
-#ifndef SEND_ARRIS
-#define SEND_ARRIS          _IR_ENABLE_DEFAULT_
-#endif  // SEND_ARRIS
-
-#ifndef DECODE_RHOSS
-#define DECODE_RHOSS        _IR_ENABLE_DEFAULT_
-#endif  // DECODE_RHOSS
-#ifndef SEND_RHOSS
-#define SEND_RHOSS          _IR_ENABLE_DEFAULT_
-#endif  // SEND_RHOSS
-
-#ifndef DECODE_AIRTON
-#define DECODE_AIRTON       _IR_ENABLE_DEFAULT_
-#endif  // DECODE_AIRTON
-#ifndef SEND_AIRTON
-#define SEND_AIRTON         _IR_ENABLE_DEFAULT_
-#endif  // SEND_AIRTON
-
-#ifndef DECODE_KELON168
-#define DECODE_KELON168     _IR_ENABLE_DEFAULT_
-#endif  // DECODE_KELON168
-#ifndef SEND_KELON168
-#define SEND_KELON168       _IR_ENABLE_DEFAULT_
-#endif  // SEND_KELON168
-
-#ifndef DECODE_DAIKIN200
-#define DECODE_DAIKIN200    _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DAIKIN200
-#ifndef SEND_DAIKIN200
-#define SEND_DAIKIN200      _IR_ENABLE_DEFAULT_
-#endif  // SEND_DAIKIN200
-
-#ifndef DECODE_HAIER_AC160
-#define DECODE_HAIER_AC160  _IR_ENABLE_DEFAULT_
-#endif  // DECODE_HAIER_AC160
-#ifndef SEND_HAIER_AC160
-#define SEND_HAIER_AC160    _IR_ENABLE_DEFAULT_
-#endif  // SEND_HAIER_AC160
-
-#ifndef DECODE_TOTO
-#define DECODE_TOTO         _IR_ENABLE_DEFAULT_
-#endif  // DECODE_TOTO
-#ifndef SEND_TOTO
-#define SEND_TOTO           _IR_ENABLE_DEFAULT_
-#endif  // SEND_TOTO
-
-#ifndef DECODE_CLIMABUTLER
-#define DECODE_CLIMABUTLER  _IR_ENABLE_DEFAULT_
-#endif  // DECODE_CLIMABUTLER
-#ifndef SEND_CLIMABUTLER
-#define SEND_CLIMABUTLER    _IR_ENABLE_DEFAULT_
-#endif  // SEND_CLIMABUTLER
-
-#ifndef DECODE_BOSCH144
-#define DECODE_BOSCH144     _IR_ENABLE_DEFAULT_
-#endif  // DECODE_BOSCH144
-#ifndef SEND_BOSCH144
-#define SEND_BOSCH144       _IR_ENABLE_DEFAULT_
-#endif  // SEND_BOSCH144
-
-#ifndef DECODE_DAIKIN312
-#define DECODE_DAIKIN312    _IR_ENABLE_DEFAULT_
-#endif  // DECODE_DAIKIN312
-#ifndef SEND_DAIKIN312
-#define SEND_DAIKIN312      _IR_ENABLE_DEFAULT_
-#endif  // SEND_DAIKIN312
-
-#ifndef DECODE_GORENJE
-#define DECODE_GORENJE      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_GORENJE
-#ifndef SEND_GORENJE
-#define SEND_GORENJE        _IR_ENABLE_DEFAULT_
-#endif  // SEND_GORENJE
-
-#ifndef DECODE_WOWWEE
-#define DECODE_WOWWEE      _IR_ENABLE_DEFAULT_
-#endif  // DECODE_WOWWEE
-#ifndef SEND_WOWWEE
-#define SEND_WOWWEE        _IR_ENABLE_DEFAULT_
-#endif  // SEND_WOWWEE
-
-#ifndef DECODE_CARRIER_AC84
-#define DECODE_CARRIER_AC84 _IR_ENABLE_DEFAULT_
-#endif  // DECODE_CARRIER_AC84
-#ifndef SEND_CARRIER_AC84
-#define SEND_CARRIER_AC84   _IR_ENABLE_DEFAULT_
-#endif  // SEND_CARRIER_AC84
-
-#ifndef DECODE_YORK
-#define DECODE_YORK         _IR_ENABLE_DEFAULT_
-#endif  // DECODE_YORK
-#ifndef SEND_YORK
-#define SEND_YORK           _IR_ENABLE_DEFAULT_
-#endif  // SEND_YORK
+// #ifndef DECODE_GOODWEATHER
+// #define DECODE_GOODWEATHER     _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_GOODWEATHER
+// #ifndef SEND_GOODWEATHER
+// #define SEND_GOODWEATHER       _IR_ENABLE_DEFAULT_
+// #endif  // SEND_GOODWEATHER
+
+// #ifndef DECODE_GREE
+// #define DECODE_GREE            _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_GREE
+// #ifndef SEND_GREE
+// #define SEND_GREE              _IR_ENABLE_DEFAULT_
+// #endif  // SEND_GREE
+
+// #ifndef DECODE_PRONTO
+// #define DECODE_PRONTO          false  // Not applicable.
+// #endif  // DECODE_PRONTO
+// #ifndef SEND_PRONTO
+// #define SEND_PRONTO            _IR_ENABLE_DEFAULT_
+// #endif  // SEND_PRONTO
+
+// #ifndef DECODE_ARGO
+// #define DECODE_ARGO            _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_ARGO
+// #ifndef SEND_ARGO
+// #define SEND_ARGO              _IR_ENABLE_DEFAULT_
+// #endif  // SEND_ARGO
+
+// #ifndef DECODE_TROTEC
+// #define DECODE_TROTEC          _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_TROTEC
+// #ifndef SEND_TROTEC
+// #define SEND_TROTEC            _IR_ENABLE_DEFAULT_
+// #endif  // SEND_TROTEC
+
+// #ifndef DECODE_TROTEC_3550
+// #define DECODE_TROTEC_3550     _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_TROTEC_3550
+// #ifndef SEND_TROTEC_3550
+// #define SEND_TROTEC_3550       _IR_ENABLE_DEFAULT_
+// #endif  // SEND_TROTEC_3550
+
+// #ifndef DECODE_NIKAI
+// #define DECODE_NIKAI           _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_NIKAI
+// #ifndef SEND_NIKAI
+// #define SEND_NIKAI             _IR_ENABLE_DEFAULT_
+// #endif  // SEND_NIKAI
+
+// #ifndef DECODE_TOSHIBA_AC
+// #define DECODE_TOSHIBA_AC      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_TOSHIBA_AC
+// #ifndef SEND_TOSHIBA_AC
+// #define SEND_TOSHIBA_AC        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_TOSHIBA_AC
+
+// #ifndef DECODE_MAGIQUEST
+// #define DECODE_MAGIQUEST       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MAGIQUEST
+// #ifndef SEND_MAGIQUEST
+// #define SEND_MAGIQUEST         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MAGIQUEST
+
+// #ifndef DECODE_MIDEA
+// #define DECODE_MIDEA           _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MIDEA
+// #ifndef SEND_MIDEA
+// #define SEND_MIDEA             _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MIDEA
+
+// #ifndef DECODE_MIDEA24
+// #define DECODE_MIDEA24         _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MIDEA24
+// #ifndef SEND_MIDEA24
+// #define SEND_MIDEA24           _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MIDEA24
+
+// #ifndef DECODE_LASERTAG
+// #define DECODE_LASERTAG        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_LASERTAG
+// #ifndef SEND_LASERTAG
+// #define SEND_LASERTAG          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_LASERTAG
+
+// #ifndef DECODE_CARRIER_AC
+// #define DECODE_CARRIER_AC      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_CARRIER_AC
+// #ifndef SEND_CARRIER_AC
+// #define SEND_CARRIER_AC        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_CARRIER_AC
+
+// #ifndef DECODE_CARRIER_AC40
+// #define DECODE_CARRIER_AC40    _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_CARRIER_AC40
+// #ifndef SEND_CARRIER_AC40
+// #define SEND_CARRIER_AC40      _IR_ENABLE_DEFAULT_
+// #endif  // SEND_CARRIER_AC40
+
+// #ifndef DECODE_CARRIER_AC64
+// #define DECODE_CARRIER_AC64    _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_CARRIER_AC64
+// #ifndef SEND_CARRIER_AC64
+// #define SEND_CARRIER_AC64      _IR_ENABLE_DEFAULT_
+// #endif  // SEND_CARRIER_AC64
+
+// #ifndef DECODE_CARRIER_AC128
+// #define DECODE_CARRIER_AC128   _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_CARRIER_AC128
+// #ifndef SEND_CARRIER_AC128
+// #define SEND_CARRIER_AC128     _IR_ENABLE_DEFAULT_
+// #endif  // SEND_CARRIER_AC128
+
+// #ifndef DECODE_HAIER_AC
+// #define DECODE_HAIER_AC        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HAIER_AC
+// #ifndef SEND_HAIER_AC
+// #define SEND_HAIER_AC          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HAIER_AC
+
+// #ifndef DECODE_HITACHI_AC
+// #define DECODE_HITACHI_AC      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HITACHI_AC
+// #ifndef SEND_HITACHI_AC
+// #define SEND_HITACHI_AC        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HITACHI_AC
+
+// #ifndef DECODE_HITACHI_AC1
+// #define DECODE_HITACHI_AC1     _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HITACHI_AC1
+// #ifndef SEND_HITACHI_AC1
+// #define SEND_HITACHI_AC1       _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HITACHI_AC1
+
+// #ifndef DECODE_HITACHI_AC2
+// #define DECODE_HITACHI_AC2     _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HITACHI_AC2
+// #ifndef SEND_HITACHI_AC2
+// #define SEND_HITACHI_AC2       _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HITACHI_AC2
+
+// #ifndef DECODE_HITACHI_AC3
+// #define DECODE_HITACHI_AC3     _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HITACHI_AC3
+// #ifndef SEND_HITACHI_AC3
+// #define SEND_HITACHI_AC3       _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HITACHI_AC3
+
+// #ifndef DECODE_HITACHI_AC264
+// #define DECODE_HITACHI_AC264   _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HITACHI_AC264
+// #ifndef SEND_HITACHI_AC264
+// #define SEND_HITACHI_AC264     _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HITACHI_AC264
+
+// #ifndef DECODE_HITACHI_AC296
+// #define DECODE_HITACHI_AC296   _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HITACHI_AC296
+// #ifndef SEND_HITACHI_AC296
+// #define SEND_HITACHI_AC296     _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HITACHI_AC296
+
+// #ifndef DECODE_HITACHI_AC344
+// #define DECODE_HITACHI_AC344   _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HITACHI_AC344
+// #ifndef SEND_HITACHI_AC344
+// #define SEND_HITACHI_AC344     _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HITACHI_AC344
+
+// #ifndef DECODE_HITACHI_AC424
+// #define DECODE_HITACHI_AC424   _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HITACHI_AC424
+// #ifndef SEND_HITACHI_AC424
+// #define SEND_HITACHI_AC424     _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HITACHI_AC424
+
+// #ifndef DECODE_GICABLE
+// #define DECODE_GICABLE         _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_GICABLE
+// #ifndef SEND_GICABLE
+// #define SEND_GICABLE           _IR_ENABLE_DEFAULT_
+// #endif  // SEND_GICABLE
+
+// #ifndef DECODE_HAIER_AC_YRW02
+// #define DECODE_HAIER_AC_YRW02  _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HAIER_AC_YRW02
+// #ifndef SEND_HAIER_AC_YRW02
+// #define SEND_HAIER_AC_YRW02    _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HAIER_AC_YRW02
+
+// #ifndef DECODE_WHIRLPOOL_AC
+// #define DECODE_WHIRLPOOL_AC    _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_WHIRLPOOL_AC
+// #ifndef SEND_WHIRLPOOL_AC
+// #define SEND_WHIRLPOOL_AC      _IR_ENABLE_DEFAULT_
+// #endif  // SEND_WHIRLPOOL_AC
+
+// #ifndef DECODE_LUTRON
+// #define DECODE_LUTRON          _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_LUTRON
+// #ifndef SEND_LUTRON
+// #define SEND_LUTRON            _IR_ENABLE_DEFAULT_
+// #endif  // SEND_LUTRON
+
+// #ifndef DECODE_ELECTRA_AC
+// #define DECODE_ELECTRA_AC      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_ELECTRA_AC
+// #ifndef SEND_ELECTRA_AC
+// #define SEND_ELECTRA_AC        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_ELECTRA_AC
+
+// #ifndef DECODE_PANASONIC_AC
+// #define DECODE_PANASONIC_AC    _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_PANASONIC_AC
+// #ifndef SEND_PANASONIC_AC
+// #define SEND_PANASONIC_AC      _IR_ENABLE_DEFAULT_
+// #endif  // SEND_PANASONIC_AC
+
+// #ifndef DECODE_PANASONIC_AC32
+// #define DECODE_PANASONIC_AC32  _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_PANASONIC_AC32
+// #ifndef SEND_PANASONIC_AC32
+// #define SEND_PANASONIC_AC32    _IR_ENABLE_DEFAULT_
+// #endif  // SEND_PANASONIC_AC32
+
+// #ifndef DECODE_MWM
+// #define DECODE_MWM             _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MWM
+// #ifndef SEND_MWM
+// #define SEND_MWM               _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MWM
+
+// #ifndef DECODE_PIONEER
+// #define DECODE_PIONEER         _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_PIONEER
+// #ifndef SEND_PIONEER
+// #define SEND_PIONEER           _IR_ENABLE_DEFAULT_
+// #endif  // SEND_PIONEER
+
+// #ifndef DECODE_DAIKIN2
+// #define DECODE_DAIKIN2         _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DAIKIN2
+// #ifndef SEND_DAIKIN2
+// #define SEND_DAIKIN2           _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DAIKIN2
+
+// #ifndef DECODE_VESTEL_AC
+// #define DECODE_VESTEL_AC       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_VESTEL_AC
+// #ifndef SEND_VESTEL_AC
+// #define SEND_VESTEL_AC         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_VESTEL_AC
+
+// #ifndef DECODE_TECO
+// #define DECODE_TECO            _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_TECO
+// #ifndef SEND_TECO
+// #define SEND_TECO              _IR_ENABLE_DEFAULT_
+// #endif  // SEND_TECO
+
+// #ifndef DECODE_TCL96AC
+// #define DECODE_TCL96AC        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_TCL96AC
+// #ifndef SEND_TCL96AC
+// #define SEND_TCL96AC          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_TCL96AC
+
+// #ifndef DECODE_TCL112AC
+// #define DECODE_TCL112AC        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_TCL112AC
+// #ifndef SEND_TCL112AC
+// #define SEND_TCL112AC          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_TCL112AC
+
+// #ifndef DECODE_LEGOPF
+// #define DECODE_LEGOPF          _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_LEGOPF
+// #ifndef SEND_LEGOPF
+// #define SEND_LEGOPF            _IR_ENABLE_DEFAULT_
+// #endif  // SEND_LEGOPF
+
+// #ifndef DECODE_MITSUBISHIHEAVY
+// #define DECODE_MITSUBISHIHEAVY _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MITSUBISHIHEAVY
+// #ifndef SEND_MITSUBISHIHEAVY
+// #define SEND_MITSUBISHIHEAVY   _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MITSUBISHIHEAVY
+
+// #ifndef DECODE_DAIKIN216
+// #define DECODE_DAIKIN216       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DAIKIN216
+// #ifndef SEND_DAIKIN216
+// #define SEND_DAIKIN216         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DAIKIN216
+
+// #ifndef DECODE_DAIKIN160
+// #define DECODE_DAIKIN160       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DAIKIN160
+// #ifndef SEND_DAIKIN160
+// #define SEND_DAIKIN160         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DAIKIN160
+
+// #ifndef DECODE_NEOCLIMA
+// #define DECODE_NEOCLIMA        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_NEOCLIMA
+// #ifndef SEND_NEOCLIMA
+// #define SEND_NEOCLIMA          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_NEOCLIMA
+
+// #ifndef DECODE_DAIKIN176
+// #define DECODE_DAIKIN176       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DAIKIN176
+// #ifndef SEND_DAIKIN176
+// #define SEND_DAIKIN176         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DAIKIN176
+
+// #ifndef DECODE_DAIKIN128
+// #define DECODE_DAIKIN128       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DAIKIN128
+// #ifndef SEND_DAIKIN128
+// #define SEND_DAIKIN128         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DAIKIN128
+
+// #ifndef DECODE_AMCOR
+// #define DECODE_AMCOR           _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_AMCOR
+// #ifndef SEND_AMCOR
+// #define SEND_AMCOR             _IR_ENABLE_DEFAULT_
+// #endif  // SEND_AMCOR
+
+// #ifndef DECODE_DAIKIN152
+// #define DECODE_DAIKIN152       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DAIKIN152
+// #ifndef SEND_DAIKIN152
+// #define SEND_DAIKIN152         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DAIKIN152
+
+// #ifndef DECODE_EPSON
+// #define DECODE_EPSON           _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_EPSON
+// #ifndef SEND_EPSON
+// #define SEND_EPSON             _IR_ENABLE_DEFAULT_
+// #endif  // SEND_EPSON
+
+// #ifndef DECODE_SYMPHONY
+// #define DECODE_SYMPHONY        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_SYMPHONY
+// #ifndef SEND_SYMPHONY
+// #define SEND_SYMPHONY          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_SYMPHONY
+
+// #ifndef DECODE_DAIKIN64
+// #define DECODE_DAIKIN64        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DAIKIN64
+// #ifndef SEND_DAIKIN64
+// #define SEND_DAIKIN64          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DAIKIN64
+
+// #ifndef DECODE_AIRWELL
+// #define DECODE_AIRWELL         _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_AIRWELL
+// #ifndef SEND_AIRWELL
+// #define SEND_AIRWELL           _IR_ENABLE_DEFAULT_
+// #endif  // SEND_AIRWELL
+
+// #ifndef DECODE_DELONGHI_AC
+// #define DECODE_DELONGHI_AC     _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DELONGHI_AC
+// #ifndef SEND_DELONGHI_AC
+// #define SEND_DELONGHI_AC       _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DELONGHI_AC
+
+// #ifndef DECODE_DOSHISHA
+// #define DECODE_DOSHISHA        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DOSHISHA
+// #ifndef SEND_DOSHISHA
+// #define SEND_DOSHISHA          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DOSHISHA
+
+// #ifndef DECODE_MULTIBRACKETS
+// #define DECODE_MULTIBRACKETS   _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MULTIBRACKETS
+// #ifndef SEND_MULTIBRACKETS
+// #define SEND_MULTIBRACKETS     _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MULTIBRACKETS
+
+// #ifndef DECODE_TECHNIBEL_AC
+// #define DECODE_TECHNIBEL_AC     _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_TECHNIBEL_AC
+// #ifndef SEND_TECHNIBEL_AC
+// #define SEND_TECHNIBEL_AC       _IR_ENABLE_DEFAULT_
+// #endif  // SEND_TECHNIBEL_AC
+
+// #ifndef DECODE_CORONA_AC
+// #define DECODE_CORONA_AC       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_CORONA_AC
+// #ifndef SEND_CORONA_AC
+// #define SEND_CORONA_AC         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_CORONA_AC
+
+// #ifndef DECODE_ZEPEAL
+// #define DECODE_ZEPEAL          _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_ZEPEAL
+// #ifndef SEND_ZEPEAL
+// #define SEND_ZEPEAL            _IR_ENABLE_DEFAULT_
+// #endif  // SEND_ZEPEAL
+
+// #ifndef DECODE_VOLTAS
+// #define DECODE_VOLTAS          _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_VOLTAS
+// #ifndef SEND_VOLTAS
+// #define SEND_VOLTAS            _IR_ENABLE_DEFAULT_
+// #endif  // SEND_VOLTAS
+
+// #ifndef DECODE_METZ
+// #define DECODE_METZ            _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_METZ
+// #ifndef SEND_METZ
+// #define SEND_METZ              _IR_ENABLE_DEFAULT_
+// #endif  // SEND_METZ
+
+// #ifndef DECODE_TRANSCOLD
+// #define DECODE_TRANSCOLD       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_TRANSCOLD
+// #ifndef SEND_TRANSCOLD
+// #define SEND_TRANSCOLD         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_TRANSCOLD
+
+// #ifndef DECODE_MIRAGE
+// #define DECODE_MIRAGE          _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MIRAGE
+// #ifndef SEND_MIRAGE
+// #define SEND_MIRAGE            _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MIRAGE
+
+// #ifndef DECODE_ELITESCREENS
+// #define DECODE_ELITESCREENS    _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_ELITESCREENS
+// #ifndef SEND_ELITESCREENS
+// #define SEND_ELITESCREENS      _IR_ENABLE_DEFAULT_
+// #endif  // SEND_ELITESCREENS
+
+// #ifndef DECODE_MILESTAG2
+// #define DECODE_MILESTAG2    _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_MILESTAG2
+// #ifndef SEND_MILESTAG2
+// #define SEND_MILESTAG2      _IR_ENABLE_DEFAULT_
+// #endif  // SEND_MILESTAG2
+
+// #ifndef DECODE_ECOCLIM
+// #define DECODE_ECOCLIM      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_ECOCLIM
+// #ifndef SEND_ECOCLIM
+// #define SEND_ECOCLIM        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_ECOCLIM
+
+// #ifndef DECODE_XMP
+// #define DECODE_XMP          _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_XMP
+// #ifndef SEND_XMP
+// #define SEND_XMP            _IR_ENABLE_DEFAULT_
+// #endif  // SEND_XMP
+
+// #ifndef DECODE_TRUMA
+// #define DECODE_TRUMA        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_TRUMA
+// #ifndef SEND_TRUMA
+// #define SEND_TRUMA          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_TRUMA
+
+// #ifndef DECODE_HAIER_AC176
+// #define DECODE_HAIER_AC176  _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HAIER_AC176
+// #ifndef SEND_HAIER_AC176
+// #define SEND_HAIER_AC176    _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HAIER_AC176
+
+// #ifndef DECODE_TEKNOPOINT
+// #define DECODE_TEKNOPOINT  _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_TEKNOPOINT
+// #ifndef SEND_TEKNOPOINT
+// #define SEND_TEKNOPOINT    _IR_ENABLE_DEFAULT_
+// #endif  // SEND_TEKNOPOINT
+
+// #ifndef DECODE_KELON
+// #define DECODE_KELON        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_KELON
+// #ifndef SEND_KELON
+// #define SEND_KELON          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_KELON
+
+// #ifndef DECODE_BOSE
+// #define DECODE_BOSE         _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_BOSE
+// #ifndef SEND_BOSE
+// #define SEND_BOSE           _IR_ENABLE_DEFAULT_
+// #endif  // SEND_BOSE
+
+// #ifndef DECODE_ARRIS
+// #define DECODE_ARRIS        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_ARRIS
+// #ifndef SEND_ARRIS
+// #define SEND_ARRIS          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_ARRIS
+
+// #ifndef DECODE_RHOSS
+// #define DECODE_RHOSS        _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_RHOSS
+// #ifndef SEND_RHOSS
+// #define SEND_RHOSS          _IR_ENABLE_DEFAULT_
+// #endif  // SEND_RHOSS
+
+// #ifndef DECODE_AIRTON
+// #define DECODE_AIRTON       _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_AIRTON
+// #ifndef SEND_AIRTON
+// #define SEND_AIRTON         _IR_ENABLE_DEFAULT_
+// #endif  // SEND_AIRTON
+
+// #ifndef DECODE_KELON168
+// #define DECODE_KELON168     _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_KELON168
+// #ifndef SEND_KELON168
+// #define SEND_KELON168       _IR_ENABLE_DEFAULT_
+// #endif  // SEND_KELON168
+
+// #ifndef DECODE_DAIKIN200
+// #define DECODE_DAIKIN200    _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DAIKIN200
+// #ifndef SEND_DAIKIN200
+// #define SEND_DAIKIN200      _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DAIKIN200
+
+// #ifndef DECODE_HAIER_AC160
+// #define DECODE_HAIER_AC160  _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_HAIER_AC160
+// #ifndef SEND_HAIER_AC160
+// #define SEND_HAIER_AC160    _IR_ENABLE_DEFAULT_
+// #endif  // SEND_HAIER_AC160
+
+// #ifndef DECODE_TOTO
+// #define DECODE_TOTO         _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_TOTO
+// #ifndef SEND_TOTO
+// #define SEND_TOTO           _IR_ENABLE_DEFAULT_
+// #endif  // SEND_TOTO
+
+// #ifndef DECODE_CLIMABUTLER
+// #define DECODE_CLIMABUTLER  _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_CLIMABUTLER
+// #ifndef SEND_CLIMABUTLER
+// #define SEND_CLIMABUTLER    _IR_ENABLE_DEFAULT_
+// #endif  // SEND_CLIMABUTLER
+
+// #ifndef DECODE_BOSCH144
+// #define DECODE_BOSCH144     _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_BOSCH144
+// #ifndef SEND_BOSCH144
+// #define SEND_BOSCH144       _IR_ENABLE_DEFAULT_
+// #endif  // SEND_BOSCH144
+
+// #ifndef DECODE_DAIKIN312
+// #define DECODE_DAIKIN312    _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_DAIKIN312
+// #ifndef SEND_DAIKIN312
+// #define SEND_DAIKIN312      _IR_ENABLE_DEFAULT_
+// #endif  // SEND_DAIKIN312
+
+// #ifndef DECODE_GORENJE
+// #define DECODE_GORENJE      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_GORENJE
+// #ifndef SEND_GORENJE
+// #define SEND_GORENJE        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_GORENJE
+
+// #ifndef DECODE_WOWWEE
+// #define DECODE_WOWWEE      _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_WOWWEE
+// #ifndef SEND_WOWWEE
+// #define SEND_WOWWEE        _IR_ENABLE_DEFAULT_
+// #endif  // SEND_WOWWEE
+
+// #ifndef DECODE_CARRIER_AC84
+// #define DECODE_CARRIER_AC84 _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_CARRIER_AC84
+// #ifndef SEND_CARRIER_AC84
+// #define SEND_CARRIER_AC84   _IR_ENABLE_DEFAULT_
+// #endif  // SEND_CARRIER_AC84
+
+// #ifndef DECODE_YORK
+// #define DECODE_YORK         _IR_ENABLE_DEFAULT_
+// #endif  // DECODE_YORK
+// #ifndef SEND_YORK
+// #define SEND_YORK           _IR_ENABLE_DEFAULT_
+// #endif  // SEND_YORK
 
 #if (DECODE_ARGO || DECODE_DAIKIN || DECODE_FUJITSU_AC || DECODE_GREE || \
      DECODE_KELVINATOR || DECODE_MITSUBISHI_AC || DECODE_TOSHIBA_AC || \

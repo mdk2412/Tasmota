@@ -736,8 +736,8 @@ void IRac::coolix(IRCoolixAC *ac,
       ac->send();
       return;
   }
-  ac->setMode(ac->convertMode(mode));
   ac->setTemp(degrees);
+  ac->setMode(ac->convertMode(mode));
   ac->setFan(ac->convertFan(fan));
   // No Filter setting available.
   // No Beep setting available.
